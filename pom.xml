@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>elephan-ant-core</module>
-        <module>elephan-ant-ai-engine</module>
+        <module>elephant-ant-core</module>
+        <module>elephant-ant-ai-engine</module>
     </modules>
 
 
